@@ -1,0 +1,18 @@
+body {
+  font-size: 1rem; }
+
+ul {
+  list-style: none; }
+  ul li {
+    display: inline;
+    margin-left: 10px; }
+    ul li a {
+      font-size: 2.2em; }
+
+.btn-flat {
+  border-radius: 0px; }
+
+.input-flat {
+  border-radius: 0px; }
+
+/*# sourceMappingURL=styles.css.map*/
